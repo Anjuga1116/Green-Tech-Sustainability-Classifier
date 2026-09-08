@@ -1,3 +1,4 @@
+https://anjuga1116-green-tech-sustainability-classifier-app1-ytb3so.streamlit.app/
 # Green-Tech Sustainability Classifier (Streamlit)
 
 An interactive Streamlit app built from `3___Logistic_regression_.ipynb`. It trains a
